@@ -391,7 +391,7 @@ export const ProfileSidebar = () => {
               style={{ textDecoration: "none", color: "inherit" }}
               href="https://github.com/maciekt07"
             >
-              maciekt07
+              NorkCraft Network
             </a>
           </CreditsContainer>
           <CreditsContainer>
